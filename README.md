@@ -1,10 +1,12 @@
 # Brainhack-2017-Demo
 
-The included Jupyter notebook provides some background on the NIMH Data Archive as well as a descripton of web services, and some examples for working with them programmatically through the notebook.
+**Temporary AWS credentials (FederationUser Tokens) provided by the Data Manager service are being deprecated. Procedures for obtaining FederationUser Tokens using the new Package Service are available on [this wiki](https://github.com/NDAR/nda-data-access-example-code).**  
+
+The included Jupyter notebook provides some background on the NIMH Data Archive as well as a description of web services, and some examples for working with them programmatically through the notebook.
 
 ## Python Package Requirements
 
-### NIMH DAta Archive GitHub
+### NIMH Data Archive GitHub
 
 NDA AWS Token Generator
 
@@ -17,7 +19,7 @@ NDA AWS Token Generator
 
 ### To work with miNDAR directly
 
-* cx_Oracle - Some assembly required - have guide for Linux and Windows
+* cx_Oracle - Some assembly required - has guides for Linux and Windows
 
 ## Acknowledgements
 
